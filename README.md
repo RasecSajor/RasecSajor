@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">HOLA 👋, SOY CÉSAR</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdiNGdwbTdlbnB1bmdkbmc5enFqbDdncWh1dThnNWhmODltanVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" align="center" alt="cesar header image">
 
 -------------------
 &emsp;
