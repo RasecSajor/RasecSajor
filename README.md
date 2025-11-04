@@ -25,24 +25,19 @@ Here are some ideas to get you started:
 <h1 align="center">DATA & BUSINESS ANALYST</h1>
 
 &emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Soy Ingeniero en Computación con experiencia en el sector financiero, especializado en la implementación de metodologías ágiles y el análisis de sistemas complejos. Mi valor principal es traducir la complejidad del negocio en soluciones estratégicas, y estoy enfocando mi rigor analítico en el Data Analysis Stack para impulsar la toma de decisiones basada en evidencia.</h3>
 &emsp;
 
--------------------
 &emsp;
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
-
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+- 🔭 Actualmente me encuentro trabajando en proyectos tecnológicos del mercado de derivados bajo metodologías ágiles. 
+- 📚 También me encuentro fortaleciendo mis habilidades de narrativa de datos con un [curso en Power BI en DAXUS LATAM ](https://www.daxus.com/), un programa dedicado a la creación de reportes interactivos que faciliten la monitorización de métricas y la toma de decisiones en tiempo real. 
+- 💬 Pregúntame sobre modelado de procesos y sistemas. 
 
 &emsp;
 
 
 # 🛠️ MIS HABILIDADES
--------------------
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
@@ -65,19 +60,3 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 
-
-
-
-
-
-
-
-<div style="display: flex; align-items: center; background-color: #f8f8f8; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <div style="flex: 1; text-align: left; padding-right: 20px;">
-    <h1 style="color: #000000; font-size: 2.5em; margin-bottom: 5px; text-transform: uppercase;">CÉSAR ROJAS</h1>
-    <h2 style="color: #555555; font-size: 1.5em; margin-top: 0; font-weight: bold;">DATA ANALYST | BUSINESS ANALYST</h2>
-  </div>
-  <div style="flex: 0 0 auto;">
-    <img src="https://media.giphy.com/media/LmN8STYSmzL7YJ4fA4/giphy.gif" alt="Coding illustration" style="max-height: 120px; border-radius: 4px;">
-  </div>
-</div>
