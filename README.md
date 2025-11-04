@@ -40,12 +40,8 @@ Here are some ideas to get you started:
 
 &emsp;
 
-## Me around the web:
--------------------
 
-
-
-## 🛠️ MIS HABILIDADES
+# 🛠️ MIS HABILIDADES
 -------------------
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
