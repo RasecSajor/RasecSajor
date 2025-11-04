@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 - 🔭 Actualmente me encuentro trabajando en proyectos tecnológicos del mercado de derivados bajo metodologías ágiles. 
 - 📚 También me encuentro fortaleciendo mis habilidades de narrativa de datos con un [curso en Power BI en DAXUS LATAM ](https://www.daxus.com/), un programa dedicado a la creación de reportes interactivos que faciliten la monitorización de métricas y la toma de decisiones en tiempo real. 
-- 💬 Pregúntame sobre modelado de procesos y sistemas. 
+- 💬 Pregúntame sobre modelado de procesos y sistemas.
+- 🔍 Siempre en búsqueda de proyectos que integren tecnología, colaboración y mejora continua.  
 
 &emsp;
 
