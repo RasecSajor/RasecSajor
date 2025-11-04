@@ -16,6 +16,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">HOLA 👋, SOY CÉSAR</h1>
+
+<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+
+-------------------
+&emsp;
+<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+&emsp;
+
+-------------------
+&emsp;
+
+- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
+- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+
+- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+
+- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+
+&emsp;
+
+## Me around the web:
+-------------------
+
+
+
+## 🛠️ MIS HABILIDADES
+-------------------
+### Programming languages:
+&emsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+
+
+
+
+
+
+
 
 <div style="display: flex; align-items: center; background-color: #f8f8f8; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <div style="flex: 1; text-align: left; padding-right: 20px;">
